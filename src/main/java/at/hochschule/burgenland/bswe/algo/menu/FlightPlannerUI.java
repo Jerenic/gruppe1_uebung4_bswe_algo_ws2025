@@ -75,7 +75,7 @@ public class FlightPlannerUI {
    */
   private void printWelcome() {
     System.out.println("╔════════════════════════════════════════════════════════╗");
-    System.out.println("║       FLIGHT ROUTE PLANNER - Java 17 Application         ║");
+    System.out.println("║       FLIGHT ROUTE PLANNER - Java 17 Application       ║");
     System.out.println("║     Graph-Based Route Optimization & Search System     ║");
     System.out.println("╚════════════════════════════════════════════════════════╝");
     System.out.println();
